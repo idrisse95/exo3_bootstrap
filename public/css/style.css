@@ -1,0 +1,33 @@
+body {
+  color: #797979;
+}
+
+#photo {
+  padding-top: 10% !important;
+  background-color: #b25639;
+}
+#photo img {
+  border-radius: 50%;
+  border: 5px solid #ce7155;
+}
+
+#clar {
+  margin-top: 10%;
+}
+
+#clar span {
+  color: #b25639;
+}
+
+#imgC img {
+  width: 30px;
+  color: #303030;
+}
+
+#two {
+  margin-left: 15%;
+  margin-right: 6%;
+}
+#two #colo {
+  color: #b25639;
+}
